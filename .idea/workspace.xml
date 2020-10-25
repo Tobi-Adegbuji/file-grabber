@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bdd9275f-483a-4bcf-9cef-289c3c253720" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jNyOBJ4tASyMh0NTNDgbefBici" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Libraries/javafx-sdk-11.0.2/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Grab-Files" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\Adegb\Documents\Libraries\javafx-sdk-11.0.2\lib&quot; --add-modules=javafx.controls,javafx.fxml " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdd9275f-483a-4bcf-9cef-289c3c253720" name="Default Changelist" comment="" />
+      <created>1603658809169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603658809169</updated>
+      <workItem from="1603658827413" duration="4729000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603662590304">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="828" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1603662590304" />
+    <state x="765" y="202" key="#com.intellij.ide.util.MemberChooser" timestamp="1603661784088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="202" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1603661784088" />
+    <state x="740" y="281" key="FileChooserDialogImpl" timestamp="1603661600322">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="281" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1603661600322" />
+    <state width="1921" height="224" key="GridCell.Tab.0.bottom" timestamp="1603664664104">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="224" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1603664664104" />
+    <state width="1022" height="400" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1603662679127" />
+    <state width="1921" height="224" key="GridCell.Tab.0.center" timestamp="1603664664103">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="224" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1603664664103" />
+    <state width="1022" height="400" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1603662679127" />
+    <state width="1921" height="224" key="GridCell.Tab.0.left" timestamp="1603664664102">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="224" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1603664664102" />
+    <state width="1022" height="400" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1603662679127" />
+    <state width="1921" height="224" key="GridCell.Tab.0.right" timestamp="1603664664103">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="224" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1603664664103" />
+    <state width="1022" height="400" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1603662679127" />
+    <state x="880" y="104" key="SettingsEditor" timestamp="1603661604557">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="880" y="104" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603661604557" />
+    <state x="610" y="227" width="697" height="678" key="search.everywhere.popup" timestamp="1603660288336">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="610" y="227" width="697" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1603660288336" />
+  </component>
+</project>
